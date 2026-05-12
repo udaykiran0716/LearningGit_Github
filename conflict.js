@@ -1,1 +1,1 @@
-console.log("This is conflict file");
+console.log("This is conflict file from feature branch");
